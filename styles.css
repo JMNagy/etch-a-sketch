@@ -81,45 +81,45 @@ button:hover {
   cursor: pointer;
 }
 
-.blackButton {
+.bButton {
   background-color: black;
 
   color: white;
 }
 
-.blackButton:hover {
+.bButton:hover {
   background-color: white;
 
   color: black;
 }
 
-.grayButton {
+.gButton {
   background-color: rgba(128, 128, 128, 0.411);
 
   color: black;
 }
 
-.grayButton:hover {
+.gButton:hover {
   background-color: rgb(95, 95, 95);
 
   color: white;
 }
 
-.randomButton {
-  background: linear-gradient(0.25turn, #f65cfc, #ebf8e1, #583cf6);
+.rButton {
+  background: linear-gradient(0.25turn, #ff3300, #1a29fa, #00ff55);
 }
 
-.randomButton:hover {
-  background: linear-gradient(0.25turn, #20ff02, #ebf8e1, #aecc03);
+.rButton:hover {
+  background: linear-gradient(0.25turn, #ea02ff, #0fefff, #ddff1a);
 }
 
-.erasorButton {
+.eButton {
   background-color: rgb(255, 255, 255);
 
   color: rgb(0, 0, 0);
 }
 
-.erasorButton:hover {
+.eButton:hover {
   background-color: white;
 
   color: rgb(255, 255, 255);
